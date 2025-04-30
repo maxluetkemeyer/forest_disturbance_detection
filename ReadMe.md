@@ -3,6 +3,8 @@ python3 -m venv ./venv
 pip3 install -r requirements.txt
 
 Hallo
+git config pull.rebase true
+
 Knowledge:
 - Remote Sensing for Forests
 ---------------
