@@ -1,0 +1,14 @@
+# Notebooks
+ipykernel
+
+# Basics
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+scipy
+
+# Plotting
+seaborn
+matplotlib
