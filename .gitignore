@@ -163,3 +163,5 @@ cython_debug/
 
 ## Data Sciecne template
 .database/
+
+.DS_Store
